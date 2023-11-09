@@ -11,3 +11,5 @@
 # .txt Revert "Hello Tokyo"
 # .txt Revert "abc.txt" commit section
 # .txt Revert "What's up Romania rewrited"
+
+>>> txt file, abc txt, hello Tokyo, What's up Romania
